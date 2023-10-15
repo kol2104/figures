@@ -31,6 +31,8 @@ Tests are placed in a tests package.
 
 `pytest ./src/tests/`
 
+Service ready to use!
+
 ### Used technologies
 
 1. Python 3.9
